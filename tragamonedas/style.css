@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #222;
+    color: #fff;
+}
+#slot-machine {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.reel {
+    font-size: 50px;
+    margin: 10px;
+    padding: 20px;
+    background: #444;
+    border-radius: 10px;
+    width: 80px;
+    text-align: center;
+}
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background: #ff9800;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
